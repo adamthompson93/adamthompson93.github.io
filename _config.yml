@@ -11,6 +11,8 @@ description: Software Engineer from Texas
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
+paginate: 5
+
 #
 # Flags below are optional
 #
@@ -70,12 +72,13 @@ kramdown:
 
 # Set the Sass partials directory, as we're using @imports
 sass:
-  style: :expanded # You might prefer to minify using :compressed
+  sass_dir: _sass
+  style: :compressed # You might prefer to minify using :compressed
 
 # Use the following plug-ins
 plugins:
-  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
-  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jekyll-gist
+  - jekyll-seo-tag
   - jekyll-paginate
 
 # Exclude these files from your production _site
