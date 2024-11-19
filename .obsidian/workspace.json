@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about.md",
+                "file": "_posts/2040-4-20-test.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "about"
+              "title": "2040-4-20-test"
             }
           }
         ],
@@ -215,6 +215,7 @@
   },
   "active": "40f6a7cc50f1d23d",
   "lastOpenFiles": [
+    "about.md",
     "_posts/2040-4-20-test.md",
     "README.md",
     "_posts/2014-3-3-Hello-World.md",
@@ -247,7 +248,6 @@
     "RPG Notes/City of Mist/Det. Gertrude Enkidu.md",
     "RPG Notes/The Great Space Race/The Stops/5. Ebberon/0. Concept.md",
     "RPG Notes/Storm King's Thunder/Character Notes/Wren.md",
-    "Gnomes.md",
     "RPG Notes/The Great Space Race/The Stops/5. Ebberon/The Iceberg.canvas",
     "Personal/Archive",
     "RPG Notes/City of Mist",
