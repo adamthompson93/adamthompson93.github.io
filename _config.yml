@@ -4,8 +4,8 @@
 
 # Name of your site (displayed in the header)
 tile: A Permanent Temporary Title
-tagline: 'A blog for one'
-description: A place where I post (some of) the things I write to consolidate my thoughts.
+tagline: A place where I post (some of) the things I write to consolidate my thoughts.
+description: 'A blog for one'
 
 author:
     name: Adam
