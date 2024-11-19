@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-4-20-test.md",
+                "file": "archive.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-4-20-test"
+              "title": "archive"
             }
           }
         ],
@@ -215,12 +215,13 @@
   },
   "active": "40f6a7cc50f1d23d",
   "lastOpenFiles": [
+    "about.md",
+    "_posts/2024-11-18-a-new-post.md",
+    "_posts/2024-4-20-test.md",
     "_posts/2014-3-3-Hello-World.md",
     "README.md",
     "404.md",
-    "about.md",
     "archive.md",
-    "_posts/2024-4-20-test.md",
     "_includes/sidebar.html",
     "public/js/script.js",
     "public/css/syntax.css",
@@ -254,7 +255,6 @@
     "RPG Notes/City of Mist/Baku.md",
     "RPG Notes/City of Mist/Tlaloc.md",
     "RPG Notes/City of Mist/Scarlet.md",
-    "RPG Notes/City of Mist/Det. Gertrude Enkidu.md",
     "RPG Notes/The Great Space Race/The Stops/5. Ebberon/The Iceberg.canvas",
     "Work Notes/Plans/Rearchitecture/Object Diagram.canvas",
     "Work Notes/Plans/Rearchitecture/Untitled.canvas",
