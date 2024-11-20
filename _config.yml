@@ -6,6 +6,7 @@
 title: A Permanent Temporary Title
 tagline: A place where I post (some of) the things I write to consolidate my thoughts.
 description: 'A blog for one'
+avatar: 
 
 author:
     name: Adam
@@ -23,10 +24,10 @@ paginate: 5
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: 
   facebook:
   flickr:
-  github: 
+  github: adamthompson93
   instagram:
   linkedin:
   pinterest:
@@ -83,6 +84,8 @@ plugins:
   - jekyll-gist
   - jekyll-seo-tag
   - jekyll-paginate
+  - jekyll-feed
+  - jekyll-sitemap
 
 # Exclude these files from your production _site
 exclude:
