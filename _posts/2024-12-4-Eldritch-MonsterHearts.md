@@ -3,4 +3,4 @@ layout: post
 title: Eldritch Knowledge in Monsterhearts
 date: 2024-12-4
 ---
-I recently volunteered to take over the reigns of a campaign of Monsterhearts I have been playing 
+I recently volunteered to take over the reigns of a campaign of Monsterhearts I have been playing with a group of friends for the last couple years now. Taking over an existing setting from another DM is always a bit of a challenge (especially when said DM will be playing in your game). In preparation I've been trying to do some plotting that will keep things consistent where we've already established Lore but 
