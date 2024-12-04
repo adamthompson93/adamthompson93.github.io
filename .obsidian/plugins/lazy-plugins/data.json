@@ -37,6 +37,9 @@
       },
       "pdf-plus": {
         "startupType": "short"
+      },
+      "obsidian-git": {
+        "startupType": "short"
       }
     }
   }
