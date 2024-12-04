@@ -10,15 +10,18 @@ Anyways. I want to add some Eldritch goodness to the world because we haven't ha
 
 
 ```
-Gaze Into the Abyss:
+Gaze Into the Abyss
 When you gaze into the abyss, name what you’re looking for and roll with Dark. 
-• On a 10 up, the abyss shows you lucid visions, and you take 1 Forward to addressing them. 
+• On a 10 up, the abyss shows you lucid visions, and you take 1 Forward to addressing 
+them. 
 • On a 7-9, the abyss shows you confusing and alarming visions, but you get your answer nonetheless.
 
 Keep your Cool
-When you keep your cool and act despite fear, name what you’re afraid of and roll with Cold. 
+When you keep your cool and act despite fear, name what you’re afraid of and 
+roll with Cold. 
 • On a 10 up, you keep your cool and gain insight: ask the MC a question about the situation and take 1 Forward to acting on that information. 
-• On a 7-9,the MC will tell you how your actions would leave you vulnerable, and you can choose to back down or go through with it.
+• On a 7-9,the MC will tell you how your actions would leave you vulnerable, and you can
+choose to back down or go through with it.
 ```
 
 
