@@ -19,3 +19,32 @@ On a 7-9, the abyss shows you confusing and alarming visions, but you get your a
 
 
 A written it can already pretty easily be bent in our desired direction, so lets just leave it for now and move on to the next part of the concept. 
+I am now going to start sifting through the PbtA-ish game tremulus which is about the exact sort of stuff that I want to do but with less sexy monsters and fucking. 
+
+There's a trust mechanic which looks interesting. 
+
+```
+What Trust Means
+-3 Wouldn’t sleep in the same house as them.
+-2 Wouldn’t turn your back on them.
+-1 Find them shifty.
+0 Casual acquaintance. No real opinion positive or negative.
++1 A good friend, trustworthy.
++2 Close friend, trust with important personal matters.
++3 Inner circle, trust with your life.
+
+Group Dynamics
+You may increase your Trust in someone by 1 at the end of each session. If
+you do, you must reduce your Trust in someone else by 1 as well. Whenever
+you survive a story arc (whether you succeed or fail), you increase your
+Trust in a fellow survivor by 1 (without reducing your Trust elsewhere) or
+gain 1 Lore. This ebb and flow of Trust should be reflected in the narrative.
+
+Secrets
+When your Trust in someone will exceed +3/-3, the player must tell you a
+secret truth about their character, and you gain a point of Lore. Reset Trust
+to +1, 0, or -1 based upon what you learn (as you view them a bit differently
+now). You’re under no obligation to keep their secret. If you ever reveal
+```
+
+
