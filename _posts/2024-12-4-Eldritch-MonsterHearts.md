@@ -9,3 +9,11 @@ I recently volunteered to take over the reigns of a campaign of Monsterhearts I 
 Anyways. I want to add some Eldritch goodness to the world because we haven't had any and its cool. Monsterhearts is at its core about being a fun sexy problematic teen drama. Much like a teen drama, it can be a game about investigating, so that part I'm not too worried about. At most I might be making some tweaks to Gaze into the Abyss move so that it interacts with whatever it is I piece together here.
 
 Here's the standard Gaze into the Abyss text:
+
+## Gaze Into the Abyss
+*When you gaze into the abyss, name what you’re
+looking for and roll with Dark. On a 10 up, the abyss
+shows you lucid visions, and you take 1 Forward
+to addressing them. On a 7-9, the abyss shows you
+confusing and alarming visions, but you get your
+answer nonetheless.*
