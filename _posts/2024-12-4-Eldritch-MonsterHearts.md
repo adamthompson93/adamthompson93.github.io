@@ -11,9 +11,8 @@ Anyways. I want to add some Eldritch goodness to the world because we haven't ha
 Here's the standard Gaze into the Abyss text:
 
 ## Gaze Into the Abyss
-*When you gaze into the abyss, name what you’re
-looking for and roll with Dark. On a 10 up, the abyss
-shows you lucid visions, and you take 1 Forward
-to addressing them. On a 7-9, the abyss shows you
-confusing and alarming visions, but you get your
-answer nonetheless.*
+*When you gaze into the abyss, name what you’re looking for and roll with Dark. 
+On a 10 up, the abyss shows you lucid visions, and you take 1 Forward to addressing them. 
+On a 7-9, the abyss shows you confusing and alarming visions, but you get your answer nonetheless.*
+
+Even as written it can already lean in the direction of being a dangerous endeavour
