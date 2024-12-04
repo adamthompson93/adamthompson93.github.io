@@ -44,7 +44,8 @@ Secrets
 When your Trust in someone will exceed +3/-3, the player must tell you a
 secret truth about their character, and you gain a point of Lore. Reset Trust
 to +1, 0, or -1 based upon what you learn (as you view them a bit differently
-now). You’re under no obligation to keep their secret. If you ever reveal
+now). You’re under no obligation to keep their secret. If you ever reveal it,
+and the confider finds out, they reduce their Trust in you by one.
 ```
 
 
