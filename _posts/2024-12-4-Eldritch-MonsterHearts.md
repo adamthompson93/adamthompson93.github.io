@@ -24,6 +24,7 @@ roll with Cold.
 choose to back down or go through with it.
 ```
 
+There's also the matter of combat
 
 A written these can already pretty easily be bent in our desired direction, so lets just leave them for now and move on to the next part of the concept. 
 I am now going to start sifting through the PbtA-ish game tremulus which is about the exact sort of stuff that I want to do but with less sexy monsters and fucking. 
