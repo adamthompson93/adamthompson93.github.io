@@ -24,6 +24,8 @@ roll with Cold.
 choose to back down or go through with it.
 ```
 
+One thing we can consider including in Gaze into the Abyss is a consequence for rolling over a 12.
+
 There's also the matter of combat
 
 A written these can already pretty easily be bent in our desired direction, so lets just leave them for now and move on to the next part of the concept. 
@@ -55,5 +57,3 @@ to +1, 0, or -1 based upon what you learn (as you view them a bit differently
 now). You’re under no obligation to keep their secret. If you ever reveal it,
 and the confider finds out, they reduce their Trust in you by one.
 ```
-
-
