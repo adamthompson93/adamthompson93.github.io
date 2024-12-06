@@ -27,11 +27,13 @@ One thing we can consider including that plays into the idea of certain kinds of
 What's Shock? Well. We're going to need some sort of a psychological harm track. We're going to call it Shock because we're stealing it from tremulus. But we're also going to lean on Pressure from Can't Lose in how we implement it.
 First how else can we gain shock?
 
+There's the Pressure Points situtaito
+
 ```
 When exposed to something that dramatically impacts or undermines a their understanding of reality,  
 each affected character has a choice to make:
  internalize the information and gain a Shock, or
- reject the expectations and lose a Pressure.
+ reject the information and lose a Shock.
 ```
 
 Filling up the Shock track is going to lead to a Skirting Death type move. 
