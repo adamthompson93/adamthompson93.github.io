@@ -45,7 +45,20 @@ each affected character has a choice to make:
  internalize the information and gain a Shock
 ```
 
-Time to pivot.
+Time to pivot. Let's look at tremulus again.
+
+```
+When a character sees something terrifying or potentially startling (and
+thus, could reasonably cause shock), he must immediately Act Under
+Pressure You can refer to this as a sanity check. It is a roll +reason
+(unless they have moves that indicate otherwise).
+On a 10+, they take 1 less shock and may act normally.
+On a 7-9, they take 1 less shock but are -1forward.
+On a miss, they take full shock and are either -1ongoing (for the scene)
+or the Keeper holds one (Keeper’s choice).
+```
+
+Okay so this sounds like we could combine what 
 
 Filling up the Shock track is going to lead to a Skirting Death type move. 
 
