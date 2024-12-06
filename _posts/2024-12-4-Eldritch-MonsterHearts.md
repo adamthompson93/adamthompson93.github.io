@@ -72,10 +72,9 @@ Filling up the Shock track is going to lead to a Skirting Death type move.
 
 ```
 Snap
-When you gain a sixth Shock, you Snap. Choose one:
- You become your Darkest Self, and ???
- You become catatonic, losing all your Shock and
-all the Strings you have on others.
+When you gain a sixth Shock, you Snap. You take a Trauma and Choose one:
+ You become your Darkest Self, and 
+ You immediately become catatonic, losing all your Shock and all the Strings you have on others.
 ```
 
 
