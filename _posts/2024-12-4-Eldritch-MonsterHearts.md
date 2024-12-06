@@ -61,4 +61,4 @@ and the confider finds out, they reduce their Trust in you by one.
 ```
 
 
-We're going to need an alternative sort of "health" track. 
+We're going to need some sort of a psychological harm track.  We're going to call it Shock because we're stealing it from tremulus. But we're also going to lean on Pressure from Can't Lose 
