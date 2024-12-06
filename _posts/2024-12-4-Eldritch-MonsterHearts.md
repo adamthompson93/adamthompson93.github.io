@@ -68,14 +68,14 @@ On a miss, they take full shock and are either -1 ongoing (for the scene) or the
 
 That feels a lot cleaner. Now we are still playing a game where 
 
-Filling up the Shock track is going to lead to a Skirting Death type move. 
+Filling up the Shock track is going to lead to a Skirting Death type move but we . 
 
 ```
 Snap
 When you gain a sixth Shock, you Snap. Choose two:
 - You become your Darkest Self, and lose half your shock
-- You suffer a bout of Temporary madness, losing all your Shock
-- Lose all the Strings you have on others.
+- You suffer a bout of Temporary Madness, losing all your Shock
+- Lose all the Strings you have on others,
 ```
 
 
