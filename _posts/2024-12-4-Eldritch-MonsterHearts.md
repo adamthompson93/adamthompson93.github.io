@@ -24,9 +24,12 @@ roll with Cold.
 choose to back down or go through with it.
 ```
 
+One thing we can consider including that plays into the idea of certa in Gaze into the Abyss is a consequence for rolling over a 12. It's still a success but depending on what one is looking into it will draw unnecessary attention. 
 
 
-One thing we can consider including in Gaze into the Abyss is a consequence for rolling over a 12. It's still a success but depending on what one is looking into it will draw unnecessary attention. 
+
+
+
 
 There's also the matter of combat
 
