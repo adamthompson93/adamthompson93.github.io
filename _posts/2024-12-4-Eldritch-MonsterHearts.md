@@ -27,6 +27,8 @@ One thing we can consider including that plays into the idea of certain kinds of
 
 What's Shock? Well. We're going to need some sort of a psychological harm track. We're going to call it Shock because we're stealing it from tremulus. But we're also going to lean on Pressure from Can't Lose in how we implement it. Filling up the Shock track is going to lead to a Skirting Death type move. 
 
+
+
 There's also the matter of combat. Things need to feel a bit more dangerous and also more dynamic. Working as a team should feel mechanically easier than it is in base MH.
 
 
