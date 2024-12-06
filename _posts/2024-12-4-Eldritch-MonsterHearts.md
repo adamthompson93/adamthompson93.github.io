@@ -28,10 +28,9 @@ What's Shock? Well. We're going to need some sort of a psychological harm track.
 First how else can we gain shock?
 
 ```
-When exposed to things that 
-psyche of teenage athletes, each affected character
-has a choice to make:
- internalize the expectations and gain a Pressure, or
+When exposed to something that dramatically impacts or undermines a their understanding of reality,  
+each affected character has a choice to make:
+ internalize the information and gain a Shock, or
  reject the expectations and lose a Pressure.
 ```
 
