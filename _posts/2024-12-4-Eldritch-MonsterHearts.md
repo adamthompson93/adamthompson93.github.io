@@ -59,3 +59,6 @@ to +1, 0, or -1 based upon what you learn (as you view them a bit differently
 now). You’re under no obligation to keep their secret. If you ever reveal it,
 and the confider finds out, they reduce their Trust in you by one.
 ```
+
+
+We're going to need an alternative sort of "health" track. 
