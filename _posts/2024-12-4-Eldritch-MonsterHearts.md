@@ -23,41 +23,14 @@ roll with Cold.
 choose to back down or go through with it.
 ```
 
-One thing we can consider including that plays into the idea of certain kinds of knowledge being dangerous is by adding a "rolling too high" mechanic into Gaze into the Abyss (partially taking inspiration from the Can't Lose supplement).  It's still a success but depending on what one is looking into it will draw unnecessary attention or give the player Shock. 
+One thing we can consider including that plays into the idea of certain kinds of knowledge being dangerous is by adding a "rolling too high" mechanic into Gaze into the Abyss (partially taking inspiration from the Can't Lose supplement).  It's still a success but depending on what one is looking into it will draw unnecessary attention, give the player Shock. or even impart a Psychological Wound (We'll get to that). 
 
 What's Shock? Well. We're going to need some sort of a psychological harm track. We're going to call it Shock because we're stealing it from tremulus. But we're also going to lean on Pressure from Can't Lose in how we implement it. Filling up the Shock track is going to lead to a Skirting Death type move. 
 
 There's also the matter of combat. Things need to feel a bit more dangerous and also more dynamic. Working as a team should feel mechanically easier than it is in base MH.
 
-A written these can already pretty easily be bent in our desired direction, so lets just leave them for now and move on to the next part of the concept. 
-I am now going to start sifting through the PbtA-ish game tremulus which is about the exact sort of stuff that I want to do but with less sexy monsters and fucking. 
 
-There's a trust mechanic which looks interesting. 
 
-```
-What Trust Means
--3 Wouldn’t sleep in the same house as them.
--2 Wouldn’t turn your back on them.
--1 Find them shifty.
-0 Casual acquaintance. No real opinion positive or negative.
-+1 A good friend, trustworthy.
-+2 Close friend, trust with important personal matters.
-+3 Inner circle, trust with your life.
-
-Group Dynamics
-You may increase your Trust in someone by 1 at the end of each session. If
-you do, you must reduce your Trust in someone else by 1 as well. Whenever
-you survive a story arc (whether you succeed or fail), you increase your
-Trust in a fellow survivor by 1 (without reducing your Trust elsewhere) or
-gain 1 Lore. This ebb and flow of Trust should be reflected in the narrative.
-
-Secrets
-When your Trust in someone will exceed +3/-3, the player must tell you a
-secret truth about their character, and you gain a point of Lore. Reset Trust
-to +1, 0, or -1 based upon what you learn (as you view them a bit differently
-now). You’re under no obligation to keep their secret. If you ever reveal it,
-and the confider finds out, they reduce their Trust in you by one.
-```
 
 
 
