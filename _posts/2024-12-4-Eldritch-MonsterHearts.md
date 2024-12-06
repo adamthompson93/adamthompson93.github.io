@@ -26,7 +26,7 @@ choose to back down or go through with it.
 
 One thing we can consider including that plays into the idea of certain kinds of knowledge being dangerous is by adding a "rolling too high" mechanic into Gaze into the Abyss (partially taking inspiration from the Can't Lose supplement).  It's still a success but depending on what one is looking into it will draw unnecessary attention or give the player Shock. 
 
-What's Shock? Well. We're going to need some sort of a psychological harm track. We're going to call it Shock because we're stealing it from tremulus. But we're also going to lean on Pressure from Can't Lose in how we implement it. We're also going to have it give a Condition
+What's Shock? Well. We're going to need some sort of a psychological harm track. We're going to call it Shock because we're stealing it from tremulus. But we're also going to lean on Pressure from Can't Lose in how we implement it. Filling up the Shock track is going to lead to a Skirting Death type move. 
 
 There's also the matter of combat
 
