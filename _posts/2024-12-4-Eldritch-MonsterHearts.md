@@ -60,14 +60,13 @@ or the Keeper holds one (Keeper’s choice).
 Okay so this sounds like we could combine what we got from Pressure Points, add this in, and use Keep Your Cool to make...
 
 ```
-When a character is exposed to something that dramatically impacts or undermines a their understanding of reality, or something they would find genuinely terrifying , must immediately Act Under
-Pressure You can refer to this as a sanity check. It is a roll +reason
-(unless they have moves that indicate otherwise).
+When a character is exposed to something that undermines a their understanding of reality or something genuinely terrifying, they must immediately roll to Keep their Cool. You can refer to this as a sanity check. It is a roll + Cold (unless they have moves that indicate otherwise).
 On a 10+, they take 1 less shock and may act normally.
-On a 7-9, they take 1 less shock but are -1forward.
-On a miss, they take full shock and are either -1ongoing (for the scene)
-or the Keeper holds one (Keeper’s choice).
+On a 7-9, they take 1 less shock but are -1 forward.
+On a miss, they take full shock and are either -1 ongoing (for the scene) or the MC holds one (MC’s choice).
 ```
+
+That feels a lot cleaner. Now we are still playing a game where 
 
 Filling up the Shock track is going to lead to a Skirting Death type move. 
 
