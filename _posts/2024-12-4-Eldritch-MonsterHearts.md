@@ -97,14 +97,14 @@ When you take the time to process your feelings, once per session you may heal 1
 there with you, and they have a String on you, they can try to help guide your thoughts. If they choose to spend the string, 
 heal an additional Shock. Otherwise they roll+Hot.
 • On a 10+ you heal an additional Shock and they gain a string on you.
-• On a 7-9 
+• On a 7-9, you heal an additional Shock
 • On a 6 
 ```
 
 ```
 Confront the Darkness
 When the need to know drives you towards madness, or when the need to fight the  overcomes your sense of self preservation, 
-and a dice-rolling move is triggered, you can choose to Confront the Darkness. If you do, the moves roll becomes +Shock. Then gain a Shock.
+and a dice-rolling move is triggered, you can choose to Confront the Darkness. If you do, the move's roll becomes +Shock. Then gain a Shock.
 A 13+ is a full success, but the character pushed too far and it comes with serious consequences.
 ```
 
