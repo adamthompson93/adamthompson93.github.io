@@ -95,8 +95,8 @@ So where do we go from here? Lets take a crack at it.
 Processing
 When you take the time to process your feelings, once per session you may heal 1 Shock. If someone else is 
 there with you, and they have a String on you, they can try to help guide your thoughts. If they choose to spend the String, 
-heal an additional Shock. Otherwise they roll+Hot.
-• On a 10+ you heal an additional Shock and they gain a string on you. (Idk if this)
+heal an additional Shock. Otherwise, they bring their own feeling to bear and roll+Hot.
+• On a 10+ you heal an additional Shock and they gain a string on you. 
 • On a 7-9, you heal an additional Shock
 • On a 6, 
 ```
