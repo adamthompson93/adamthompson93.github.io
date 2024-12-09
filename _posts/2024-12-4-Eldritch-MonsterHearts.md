@@ -94,10 +94,12 @@ So where do we go from here? Well Monsterhearts is about teen drama, so in
 ```
 Processing the Madness
 When you take the time to process your feelings, once per session you may heal 1 Shock. If someone else is 
-there with you, and they have a String on you, they bring their own feelings to bear in a moment of shared vulnerability. They roll+Hot.
+there with you, and they have a String on you, they can bring their own feeling to bear in a moment of shared vulnerability. 
+If you choose to accept their help they roll+Hot.
 • On a 10+ you heal an additional Shock and ???
 • On a 7-9, you heal an additional Shock
 • On a 6, it all goes wrong. Gain a Shock.
+If you reject them 
 ```
 
 I also think we want a way for the players to be able to leverage their level of Shock. Something like the Vent Pressure move from Can't Lose.
