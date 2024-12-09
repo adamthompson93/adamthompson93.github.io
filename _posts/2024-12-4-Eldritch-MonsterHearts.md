@@ -101,6 +101,18 @@ heal an additional Shock. Otherwise, they must bring their own feeling to bear i
 • On a 6, it all goes wrong. Gain a Shock.
 ```
 
+I also think we want a way for the players to be able to leverage their level of Shock. Something like the Vent Pressure move.
+
+```
+Vent Pressure
+When the pressure of high school sports pushes
+you to act recklessly and impulsively, and a dicerolling
+move is triggered, you can choose to Vent
+Pressure. If you do, treat the roll as a sports roll.
+```
+
+I don't think leaning on our trauma to solve problems is going to eliminate Shock makes a whole lot of sense. Plus, rolling +Shock has th
+
 ```
 Confront the Darkness
 When the need to know drives you towards madness, or when the need to fight back overcomes your sense of self preservation, 
