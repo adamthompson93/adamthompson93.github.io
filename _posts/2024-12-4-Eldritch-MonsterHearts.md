@@ -90,9 +90,9 @@ On a 7+, the subject stabilizes (restore Sanity to second segment), but the Keep
 
 So where do we go from here? Lets take a crack at it.
 ```
-When you take the time to process, once per session you may heal 1 Shock. If someone else is there with you, and they have a String on you, they can try to help guide you through the process.
+When you take the time to process, once per session you may heal 1 Shock. If someone else is there with you, and they have a String on you, they can try to help guide you through.
 - If they spend the string, heal an additional Shock
-- 
+- Otherwise they  Turn Them On move.
 ```
 
 ```
