@@ -66,7 +66,7 @@ On a 7-9, they take 1 less shock but are -1 forward.
 On a miss, they take full shock and are either -1 ongoing (for the scene) or the MC holds one (MC’s choice).
 ```
 
-That feels a lot cleaner. Now how t
+That feels a lot cleaner. Now how do we deal with shock? Harm in MH is healed via the 
 
 ```
 To treat a character with three or more shock, roll +stock spent. On a 7+, the subject stabilizes (restore Sanity to second segment), but the Keeper chooses 1 (on a 10+) or 2 (on a 7–9): • They need to be physically restrained before you can move them. • Even sedated, they fight you; you’re Acting Under Pressure. • They’ll be in and out of consciousness for 24 hours. • Stabilizing them eats up your stock; spend 1 stock more. • They’ll be bedridden, out of action, for at least a week. • They’ll need constant monitoring and care for 36 hours. On 6 or less, they take 1 shock instead.
