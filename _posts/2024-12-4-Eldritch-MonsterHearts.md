@@ -94,10 +94,10 @@ When you take the time to process, once per session you may heal 1 Shock. If som
 ```
 
 ```
-When your curiousi
-you to act recklessly and impulsively, and a dicerolling
-move is triggered, you can choose to Vent
-Pressure. If you do, treat the roll as a sports roll.
+When your need to know overcomes your sense of self preservation, 
+leading you to act recklessly and impulsively, and a dice rolling
+move is triggered, you can choose to .
+If you do, treat the roll as a sports roll.
 ```
 
 Filling up the Shock track is going to lead to a Skirting Death type move but we . 
