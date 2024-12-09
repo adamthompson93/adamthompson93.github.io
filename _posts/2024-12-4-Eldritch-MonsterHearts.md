@@ -93,6 +93,13 @@ So where do we go from here? Lets take a crack at it.
 When you take the time to process, once per session you may heal 1 Shock. If someone else is there with you, and they have a String on you,
 ```
 
+```
+When your curiousi
+you to act recklessly and impulsively, and a dicerolling
+move is triggered, you can choose to Vent
+Pressure. If you do, treat the roll as a sports roll.
+```
+
 Filling up the Shock track is going to lead to a Skirting Death type move but we . 
 
 ```
