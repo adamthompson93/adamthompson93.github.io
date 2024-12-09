@@ -98,8 +98,8 @@ there with you, and they have a String on you, they can bring their own feeling 
 If you choose to accept their help they roll+Hot.
 • On a 10+ you heal an additional Shock and ???
 • On a 7-9, you heal an additional Shock
-• On a 6, it all goes wrong. Gain a Shock.
-If you reject them 
+• On a 6, it all goes wrong. You both gain a Shock.
+If you reject them, you must take action to do so. Shut Them Down, Run Away, or Lash Out.
 ```
 
 I also think we want a way for the players to be able to leverage their level of Shock. Something like the Vent Pressure move from Can't Lose.
