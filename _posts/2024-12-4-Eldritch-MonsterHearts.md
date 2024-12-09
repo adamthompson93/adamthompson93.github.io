@@ -101,7 +101,7 @@ heal an additional Shock. Otherwise, they must bring their own feeling to bear i
 • On a 6, it all goes wrong. Gain a Shock.
 ```
 
-I also think we want a way for the players to be able to leverage their level of Shock. Something like the Vent Pressure move.
+I also think we want a way for the players to be able to leverage their level of Shock. Something like the Vent Pressure move from Can't Lose.
 
 ```
 Vent Pressure
@@ -111,7 +111,7 @@ move is triggered, you can choose to Vent
 Pressure. If you do, treat the roll as a sports roll.
 ```
 
-I don't think leaning on our trauma to solve problems is going to eliminate Shock makes a whole lot of sense. Plus, rolling +Shock has th
+But I don't think leaning on our trauma to solve problems reducing Shock makes a whole lot of sense. Plus, rolling +Shock has the potential to be very powerful. So we need some guaranteed consequences for using the move as well as a potential for *problems* at h. 
 
 ```
 Confront the Darkness
