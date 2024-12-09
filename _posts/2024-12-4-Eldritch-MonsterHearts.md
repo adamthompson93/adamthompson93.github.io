@@ -96,8 +96,8 @@ When you take the time to process, once per session you may heal 1 Shock. If som
 ```
 
 ```
-Pushing Back
-When the need to know drives you into darkness, when you choose to confront the madness, or when the need to act overcomes your sense of self preservation, and a dice rolling move is triggered, you can choose to roll+Shock.
+Confront the Darkness
+When the need to know drives you towards madness, or when the need to act overcomes your sense of self preservation, and a dice rolling move is triggered, you can choose to roll+Shock.
 A 13+ is a full success, but the character pushed too far and it comes with serious consequences.
 ```
 
