@@ -111,7 +111,7 @@ move is triggered, you can choose to Vent
 Pressure. If you do, treat the roll as a sports roll.
 ```
 
-But I don't think leaning on our trauma to solve problems reducing Shock makes a whole lot of sense. Plus, rolling +Shock has the potential to be very powerful. So we need some guaranteed consequences for using the move as well as a potential for *problems* at h. 
+But I don't think leaning on our trauma to solve problems reducing Shock makes a whole lot of sense. Plus, rolling +Shock has the potential to be very powerful. So we need some guaranteed consequences for using the move as well as a potential for *problems* at higher levels of Shock. 
 
 ```
 Confront the Darkness
