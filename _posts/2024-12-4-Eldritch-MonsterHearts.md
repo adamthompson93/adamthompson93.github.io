@@ -90,7 +90,7 @@ On a 7+, the subject stabilizes (restore Sanity to second segment), but the Keep
 
 So where do we go from here? Lets take a crack at it.
 ```
-When you take the time to process what has shocked you, 
+When you take the time to process what has shocked you, once per session you may heal 1 Shock. If someone else is there with you, 
 ```
 
 Filling up the Shock track is going to lead to a Skirting Death type move but we . 
