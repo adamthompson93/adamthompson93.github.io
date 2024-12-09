@@ -93,9 +93,9 @@ Filling up the Shock track is going to lead to a Skirting Death type move but we
 ```
 Snap
 When you gain a sixth Shock, you Snap. Choose up to two:
-- You become your Darkest Self
-- You suffer a bout of Temporary Madness
-- Lose all the Strings you have on others.
+- You become your Darkest Self and lose 3 shock.
+- You suffer a bout of Temporary Madness and lose 3 shock.
+- Lose all the Strings you have on others and lose 3 shock.
 ```
 
 
