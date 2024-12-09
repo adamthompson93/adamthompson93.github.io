@@ -22,7 +22,9 @@ roll with Cold.
 choose to back down or go through with it.
 ```
 
-One thing we can consider including that plays into the idea of certain kinds of knowledge being dangerous is by adding a "rolling too high" mechanic into Gaze into the Abyss (partially taking inspiration from the Can't Lose supplement).  It's still a success but depending on what one is looking into it will draw unnecessary attention, give the player Shock. or even impart a Psychological Wound (We'll get to that). 
+One thing we can consider including that plays into the idea of certain kinds of knowledge being dangerous is by adding a "rolling too high" mechanic into Gaze into the Abyss (partially taking inspiration from the Can't Lose supplement).  It's still a success but depending on what one is looking into it will draw unnecessary attention, give the player Shock. or even impart a Psychological Wound (We'll get to that).  
+
+`On a 13+ you get a full success but the abyss looks back, something unlucky happens.`
 
 What's Shock? Well. We're going to need some sort of a psychological harm track. We're going to call it Shock because we're stealing it from tremulus. But we're also going to lean on Pressure from Can't Lose in how we implement it.
 First how else can we gain shock?
@@ -90,7 +92,9 @@ On a 7+, the subject stabilizes (restore Sanity to second segment), but the Keep
 
 So where do we go from here? Lets take a crack at it.
 ```
-When you take the time to process, once per session you may heal 1 Shock. If someone else is there with you, and they have a String on you, they can try to help guide you through.
+Processing
+When you take the time to process your feelings, once per session you may heal 1 Shock. If someone else is 
+there with you, and they have a String on you, they can try to help guide you through .
 - If they spend the string, heal an additional Shock
 - Otherwise they  Turn Them On move.
 ```
