@@ -74,7 +74,8 @@ there with you, tending to your wounds delicately and intimately – and perhaps
 you may heal an additional 1 Harm.
 ```
 
-Note that there is no ro
+Note that there is no rolling, only a mechanical incentive to include other characters in the moment when you heal. This is compelling for obvious reasons and fits excellently into MHs vibe. 
+But it doesn't quite work for healing shock, I think.
 
 ```
 To treat a character with three or more shock, roll +stock spent. 
