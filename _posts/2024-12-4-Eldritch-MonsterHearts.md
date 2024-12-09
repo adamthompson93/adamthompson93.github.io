@@ -63,9 +63,9 @@ Okay so this sounds like we could combine what we got from Pressure Points, add 
 
 ```
 When a character is exposed to something that undermines a their understanding of reality or something genuinely terrifying, they must immediately roll to Keep their Cool. You can refer to this as a sanity check. It is a roll + Cold (unless they have moves that indicate otherwise).
-On a 10+, they take 1 less shock and may act normally.
-On a 7-9, they take 1 less shock but are -1 forward.
-On a miss, they take full shock and are either -1 ongoing (for the scene) or the MC holds one (MC’s choice).
+• On a 10+, they take 1 less shock and may act normally.
+• On a 7-9, they take 1 less shock but are -1 forward.
+• On a miss, they take full shock and are either -1 ongoing (for the scene) or the MC holds one (MC’s choice).
 ```
 
 That feels a lot cleaner. Now how do we deal with shock? Harm in MH is healed via the Healing move:
@@ -94,9 +94,9 @@ So where do we go from here? Lets take a crack at it.
 ```
 Processing
 When you take the time to process your feelings, once per session you may heal 1 Shock. If someone else is 
-there with you, and they have a String on you, they can try to help guide you through .
-- If they spend the string, heal an additional Shock
-- Otherwise they  Turn Them On move.
+there with you, and they have a String on you, they can try to help guide your thoughts. If they choose to spend the string, 
+heal an additional Shock. Otherwise they roll+Hot.
+• On a 10+ you heal an additional Shock and they gain a string on 
 ```
 
 ```
@@ -111,9 +111,9 @@ Filling up the Shock track is going to lead to a Skirting Death type move but we
 ```
 Snap
 When you gain a sixth Shock, you Snap. For each option you choose (minimum 1), lose 3 Shock:
-- You become your Darkest Self.
-- You suffer a bout of Temporary Madness.
-- Lose all the Strings you have on others.
+• You become your Darkest Self.
+• You suffer a bout of Temporary Madness.
+• Lose all the Strings you have on others.
 ```
 
 
