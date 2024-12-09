@@ -94,9 +94,8 @@ When you take the time to process, once per session you may heal 1 Shock. If som
 ```
 
 ```
-When your need to know overcomes your sense of self preservation, 
-when you confront the , and a dice rolling
-move is triggered, you can choose to ???.
+When you choose to confront the madness, when the need to act overcoming your sense of self preservation,
+and a dice rollingmove is triggered, you can choose to ???.
 If you do, 
 ```
 
