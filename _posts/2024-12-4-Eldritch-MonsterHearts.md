@@ -95,8 +95,7 @@ When you take the time to process, once per session you may heal 1 Shock. If som
 
 ```
 When you choose to confront the madness, when the need to act overcoming your sense of self preservation,
-and a dice rollingmove is triggered, you can choose to ???.
-If you do, 
+and a dice rolling move is triggered, you can choose to roll+Shock.
 ```
 
 Filling up the Shock track is going to lead to a Skirting Death type move but we . 
