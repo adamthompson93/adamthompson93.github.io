@@ -69,11 +69,11 @@ When a character is exposed to something that undermines a their understanding o
 
 That feels a lot cleaner. Now how do we deal with shock? Harm in MH is healed via the Healing move:
 
-```
-Healing
+
+<h4>Healing</h4>
 When you take time to tend to your wounds, once per session you may heal 1 Harm. If someone else is there with you, tending to your wounds delicately and intimately – and perhaps with erotic subtext –
 you may heal an additional 1 Harm.
-```
+
 
 Note that there is no rolling, only a mechanical incentive to include other characters in the moment when you heal. This is compelling for obvious reasons and fits excellently into MHs vibe. 
 But it doesn't quite work for healing shock, I think. And the tremulus shock healing also is totally off vibe. 
