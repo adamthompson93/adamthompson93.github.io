@@ -99,6 +99,9 @@ If you choose to accept their help they roll+Hot.
 • On a 7-9, you heal an additional 1 Shock.
 • On a 6, it all goes horribly wrong. You both take Shock.
 If you reject their help immediately roll to Shut Them Down.
+
+
+Share the 
 ```
 
 I also think we want a way for the players to be able to leverage their level of Shock. Something like the Vent Pressure move from Can't Lose.
