@@ -19,8 +19,7 @@ Keep your Cool
 When you keep your cool and act despite fear, name what you’re afraid of and 
 roll with Cold. 
 • On a 10 up, you keep your cool and gain insight: ask the MC a question about the situation and take 1 Forward to acting on that information. 
-• On a 7-9,the MC will tell you how your actions would leave you vulnerable, and you can
-choose to back down or go through with it.
+• On a 7-9,the MC will tell you how your actions would leave you vulnerable, and you can choose to back down or go through with it.
 ```
 
 One thing we can consider including that plays into the idea of certain kinds of knowledge being dangerous is by adding a "rolling too high" mechanic into Gaze into the Abyss (partially taking inspiration from the Can't Lose supplement).  It's still a success but depending on what one is looking into it will draw unnecessary attention, give the player Shock. or even impart a Psychological Wound (We'll get to that).  
@@ -135,6 +134,8 @@ When you gain a sixth Shock, you Snap. For each option you choose (minimum 1), l
 • You suffer a bout of Temporary Madness.
 • Lose all the Strings you have on others.
 ```
+
+Okay so now to engage with "What even is Temporary Madness?"
 
 There's also the matter of combat. Things need to feel a bit more dangerous and also more dynamic. Working as a team should feel mechanically easier than it is in base MH.
 
