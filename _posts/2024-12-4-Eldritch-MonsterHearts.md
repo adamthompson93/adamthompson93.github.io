@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Eldritch Knowledge in Monsterhearts (Part 1)
+title: Eldritch Horror in Monsterhearts (Part 1)
 date: 2024-12-4
-draft: "true"
 ---
 I recently volunteered to take over the reigns of a campaign of Monsterhearts (heretofore MH) I have been playing with a group of friends for the last couple years now. Taking over an existing setting from another DM is always a bit of a challenge (especially when said DM will be playing in your game). In preparation I've been trying to do some plotting that will keep things consistent where we've already established Lore and point the game's focus in a new direction. MH is a game where the characters' playbooks will often have moves that necessarily establish things about the world. Its a very fun back and forth where sometimes when a player levels up they can choose to take a move that will take the narrative in a totally new direction. One of the most common examples is the Gang advancement where in taking it the player is either creating a group of new NPCs or changing the trajectory of some existing ones, and something like that should have consequences/world impact in order to keep things narratively satisfying. Now the scope of effect of the Gang move is pretty local in nature, but a different example is just by choosing a skin you make the circumstances that created that sort of monster a thing that needs to be considered by the game world. 
 
@@ -66,15 +65,13 @@ When a character is exposed to something that undermines a their understanding o
 • On a 10+, they take 1 less shock and may act normally.
 • On a 7-9, they take 1 less shock but are -1 forward.
 • On a miss, they take full shock and are either -1 ongoing (for the scene) or the MC holds one (MC’s choice).
-
-If, in taking shock, you are
 ```
 
 That feels a lot cleaner. Now how do we deal with shock? Harm in MH is healed via the Healing move:
 
 ```
-When you take time to tend to your wounds, once per session you may heal 1 Harm. If someone else is
-there with you, tending to your wounds delicately and intimately – and perhaps with erotic subtext –
+Healing
+When you take time to tend to your wounds, once per session you may heal 1 Harm. If someone else is there with you, tending to your wounds delicately and intimately – and perhaps with erotic subtext –
 you may heal an additional 1 Harm.
 ```
 
@@ -96,7 +93,8 @@ So where do we go from here? Well MH is about teen drama, so we want to create m
 
 ```
 Processing
-When you take the time to process your feelings, once per session you may heal 1 Shock. If someone else is there with you, and they have a String on you, they may offer to Hold Hands. If instead you reject their help, immediately roll to Shut Them Down.
+When you take the time to process your feelings, once per session you may heal 1 Shock. If someone else is there with you, and they have a 
+String on you, they may offer to Hold Hands. If instead you reject their help, immediately roll to Shut Them Down.
 
 Hold Hands
 When you bring your own feelings to bear in a moment of shared emotional vulnerability with someone Processing, roll with Hot.
