@@ -68,15 +68,11 @@ When a character is exposed to something that undermines a their understanding o
 ```
 
 That feels a lot cleaner. Now how do we deal with shock? Harm in MH is healed via the Healing move:
+#### Healing
+>When you take time to tend to your wounds, once per session you may heal 1 Harm. If someone else is there with you, tending to your wounds delicately and intimately – and perhaps with erotic subtext – you may heal an additional 1 Harm.
 
-
-<h4>Healing</h4>
-When you take time to tend to your wounds, once per session you may heal 1 Harm. If someone else is there with you, tending to your wounds delicately and intimately – and perhaps with erotic subtext –
-you may heal an additional 1 Harm.
-
-
-Note that there is no rolling, only a mechanical incentive to include other characters in the moment when you heal. This is compelling for obvious reasons and fits excellently into MHs vibe. 
-But it doesn't quite work for healing shock, I think. And the tremulus shock healing also is totally off vibe. 
+Note that there is no rolling, only a mechanical incentive to include other characters in the moment when you heal. This is compelling for obvious reasons and a strong indicator of the sort of moments MHs is optimized to create.
+But it doesn't quite work for healing shock.  And the tremulus shock healing also is totally off vibe. 
 
 ```
 To treat a character with three or more shock, roll +stock spent. 
@@ -115,23 +111,18 @@ Pressure. If you do, treat the roll as a sports roll.
 
 But I don't think leaning on our trauma to solve problems reducing Shock makes a whole lot of sense. Plus, rolling +Shock has the potential to be very powerful. So we need some guaranteed consequences for using the move as well as a potential for *problems* at higher levels of Shock. 
 
-```
-Confront the Darkness
-When the need to know drives you towards madness, or when the need to fight back overcomes your sense of self preservation, 
-and a dice-rolling move is triggered, you can choose to Confront the Darkness. If you do, the move's roll becomes +Shock.
-A 13+ is a full success, but the character pushed too far and it comes with serious consequences.
-Gain a Shock.
-```
+#### Confront the Darkness
+>When the need to know drives you towards madness, or when the need to fight back overcomes your sense of self preservation, and a dice-rolling move is triggered, you can choose to Confront the Darkness. If you do, the move's roll becomes with Shock, and
+>On a 13+ is a full success, but the character pushed too far and it comes with serious consequences.
+>Gain a Shock.
+
 
 Filling up the Shock track is going to lead to a Skirting Death type move but we . 
-
-```
-Snap
-When you gain a sixth Shock, you Snap. For each option you choose (minimum 1), lose 3 Shock:
+#### Snap
+>When you gain a sixth Shock, you Snap. Choose up to two options. For each option you choose (minimum 1), lose 3 Shock:
 • You become your Darkest Self.
 • You suffer a bout of Temporary Madness.
 • Lose all the Strings you have on others.
-```
 
 Okay so now to engage with "What even is Temporary Madness?"
 
