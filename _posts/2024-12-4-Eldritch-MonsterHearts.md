@@ -93,13 +93,12 @@ On a 7+, the subject stabilizes (restore Sanity to second segment), but the Keep
 So where do we go from here? Well Monsterhearts is about teen drama, so in
 ```
 Process the Horror
-When you take the time to process your feelings, once per session you may heal 1 Shock. If someone else is 
-there with you, and they have a String on you, they can bring their own feelings to bear in a moment of shared vulnerability. 
+When you take the time to process your feelings, once per session you may heal 1 Shock. If someone else is there with you, and they have a String on you, they can bring their own feelings to bear in a moment of shared vulnerability. 
 If you choose to accept their help they roll+Hot.
-• On a 10+ you heal an additional Shock and they gain a string on you.
-• On a 7-9, you heal an additional Shock.
+• On a 10+ you both heal for 1 Shock.
+• On a 7-9, you heal an additional 1 Shock.
 • On a 6, it all goes horribly wrong. You both take Shock.
-If you reject them, you must take action to do so. Shut Them Down, Run Away, or Lash Out. They gain a Shock.
+If you reject their help immediately roll to Shut Them Down.
 ```
 
 I also think we want a way for the players to be able to leverage their level of Shock. Something like the Vent Pressure move from Can't Lose.
