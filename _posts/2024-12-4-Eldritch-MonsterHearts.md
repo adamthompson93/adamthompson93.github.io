@@ -94,6 +94,7 @@ On a 7+, the subject stabilizes (restore Sanity to second segment), but the Keep
 ```
 
 So where do we go from here? Well MH is about teen drama, so we want to create more of those dramatic, intimate moments. Moments of shared vulnerability, offering a hand, and even rejecting someones help are all good dramatic moments in a teen drama.
+
 ```
 Processing
 When you take the time to process your feelings, once per session you may heal 1 Shock. If someone else is there with you, and they have a String on you, they may offer to Hold Hands. If instead you reject their help, immediately roll to Shut Them Down.
