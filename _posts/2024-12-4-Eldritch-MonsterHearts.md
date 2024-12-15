@@ -34,8 +34,8 @@ Pressure Point
 When intense pressure is put on the body or
 psyche of teenage athletes, each affected character
 has a choice to make:
- internalize the expectations and gain a Pressure, or
- reject the expectations and lose a Pressure.
+• internalize the expectations and gain a Pressure, or
+• reject the expectations and lose a Pressure.
 ```
 
 But only the first half really neatly translates. 
@@ -52,9 +52,9 @@ When a character sees something terrifying or potentially startling (and
 thus, could reasonably cause shock), he must immediately Act Under
 Pressure You can refer to this as a sanity check. It is a roll +reason
 (unless they have moves that indicate otherwise).
-On a 10+, they take 1 less shock and may act normally.
-On a 7-9, they take 1 less shock but are -1forward.
-On a miss, they take full shock and are either -1ongoing (for the scene)
+• On a 10+, they take 1 less shock and may act normally.
+• On a 7-9, they take 1 less shock but are -1forward.
+• On a miss, they take full shock and are either -1ongoing (for the scene)
 or the Keeper holds one (Keeper’s choice).
 ```
 
@@ -118,6 +118,7 @@ But I don't think leaning on our trauma to solve problems reducing Shock makes a
 
 
 Filling up the Shock track is going to lead to a Skirting Death type move but we . 
+
 #### Snap
 >When you gain a sixth Shock, you Snap. Choose up to two options. For each option you choose (minimum 1), lose 3 Shock:
 • You become your Darkest Self.
