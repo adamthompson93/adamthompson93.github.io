@@ -41,7 +41,7 @@ has a choice to make:
 But only the first half really neatly translates. 
 
 ```
-When exposed to something that dramatically impacts or undermines a their understanding of reality,  
+When exposed to something that dramatically impacts or undermines a character's understanding of reality,  
 each affected character must internalize the information and gain a Shock.
 ```
 
